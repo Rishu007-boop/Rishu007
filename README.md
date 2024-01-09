@@ -22,6 +22,6 @@ Hello there! 👋 I'm Ram Mohan Singh, a passionate front-end developer with a k
 
 - **Programming Languages:** JavaScript, Java, Python, C++, C
 - **Web Development & Databases:** HTML5, CSS3, ReactJS, SQL
-- **IDEs & Work Management:** Eclipse, Anaconda, Visual Studio, Teams, Jira, GitLab, Git, AEM
+- **IDEs & Work Management:** Eclipse, Anaconda, Visual Studio, Teams, Jira, GitLab, Git, AEM 
 
 Let's connect and explore the exciting possibilities at the intersection of technology and creativity! Feel free to explore my repositories and projects to get a glimpse of my coding journey.
